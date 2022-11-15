@@ -1,4 +1,4 @@
-# pygame_snake
+# ipylib3 Snake
 
 a small snake program based on the ipy_lib3 library
 
